@@ -1,0 +1,66 @@
+        header {
+            background-image: url(images/1-temnaya-tekstura-kristalov.png);
+            height: 10%;
+        }
+        body {
+            margin: 1px;
+            background-image: url(images/2-fon-svetlyy-kristaly.png); 
+        }
+        .menu {
+            height: 100%;
+            width: 100%;
+        }
+        a{
+            font-family: sans-serif;
+            font-size: 30px;
+            text-decoration: none;
+            color: floralwhite;
+        }
+        a:hover {
+            color: firebrick;
+            text-decoration: none;
+        }
+        .login{
+            color: crimson;
+            padding: 10px;
+        }
+        .content {
+            padding-right: 10px;
+            margin: 10px;
+            height: 100%;
+            
+        }
+        .contab {
+            width: 100%;
+            height: 20%;
+        }
+        .left {
+            color: burlywood;
+            font-size: 30px;
+        }
+.FireBird {
+    color: firebrick;
+    font-family: fantasy;
+    font-size: 55px;
+}
+.imgj {
+    padding: 10px;
+    
+}
+.next {
+    font-family: sans-serif;
+    font-size: 15px;
+    color: burlywood;
+}
+.logint {
+    padding-top: 10%;
+    width: 100%;
+    height: 85%;
+}
+.tr_login {
+    background-color: rgba(105, 105, 105, 0.26);
+}
+.register {
+    font-size: 100%;
+    color: deepskyblue;
+}
