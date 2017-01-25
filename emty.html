@@ -69,14 +69,14 @@
 				<tr width="100%" >
 					
 					<td align="center">
-						<select class="select" align="center">
-						
-						<option>Өз тобынды таңда</option>
+						<select onchange="window.location.href=this.options[this.selectedIndex].value" class="select" align="center">
+
+						<option value="empty.html" >Өз тобынды таңда</option>
 						<option>ТП-20</option>
 						<option>ПМ-16</option>	
 						<option>ПО-17</option>	
 						<option>Т-18</option>
-						<a href="bas_bet.html"><option>Т-18</option></a>
+						<option value="bas_bet.html">Т-18</option>	
 					
 						
 						</select>
