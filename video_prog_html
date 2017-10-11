@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <style>
+            .video {
+                align-content: center;
+                align-items: center;
+            }
+            h2 {
+                color: #525252;
+            }
+        </style>
+    </head>
+    <body>
+       <div class="video">
+        <h2>Learn JavaScript in 12 Minutes</h2>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/Ukg_U3CnJWI?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <br>
+        <div class="video">
+            <h2>Learn PHP in 15 minutes</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdP0KM49IVk?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <br>
+        <div class="video">
+            <h2>Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3JluqTojuME?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </body>
+</html>
